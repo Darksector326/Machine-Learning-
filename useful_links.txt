@@ -16,5 +16,6 @@ Tutorials:
 - More advanced online tutorial for scikit-learn:
   https://github.com/jakevdp/PythonDataScienceHandbook
     
-    
+- Tensorflow Tutorials on Deep Learning:
+  https://www.tensorflow.org
     
