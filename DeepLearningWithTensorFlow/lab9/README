@@ -1,0 +1,2 @@
+make t1 - creates a tree with Variable a=10 and saves the expression tree into a checkpoint file
+make t2 - reads the checkpoint and prints the value of a
