@@ -10,6 +10,10 @@ Book:
 
   https://www.amazon.com/Statistics-Mining-Machine-Learning-Astronomy/dp/0691151687
   
+- Deep Learning with Python (Francois Chollet)
+
+  http://www.deeplearningitalia.com/wp-content/uploads/2017/12/Dropbox_Chollet.pdf
+  
 Tutorials:
 
 - Mild introduction to scikit-learn (1 hour tutorial):
@@ -24,7 +28,7 @@ Tutorials:
 
   https://www.tensorflow.org
   
-- Deep Learning with Python Notebooks (fchollet):
+- Deep Learning with Python Notebooks (Francois Chollet):
   
   https://github.com/fchollet/deep-learning-with-python-notebooks
     
