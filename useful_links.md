@@ -23,4 +23,8 @@ Tutorials:
 - Tensorflow Tutorials on Deep Learning:
 
   https://www.tensorflow.org
+  
+- Deep Learning with Python Notebooks (fchollet):
+  
+  https://github.com/fchollet/deep-learning-with-python-notebooks
     
